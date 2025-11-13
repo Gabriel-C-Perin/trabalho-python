@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Aplicativo de Monitoramento da Saúde / Academia
+#  Aplicativo de Monitoramento da Saúde / Academia
 
 O **Aplicativo de Monitoramento da Saúde** tem como objetivo auxiliar usuários a acompanhar sua evolução física e hábitos de treino de forma prática.  
 A plataforma permitirá o **cadastro de treinos e medidas corporais**, o **cálculo automático de IMC e calorias**, e a **visualização de progresso** em um **dashboard interativo com gráficos**.
