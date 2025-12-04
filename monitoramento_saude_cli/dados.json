@@ -1,0 +1,29 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "gabriel"
+        },
+        {
+            "id": 2,
+            "nome": "abacaxi"
+        }
+    ],
+    "medidas": [
+        {
+            "id": 1,
+            "usuario_id": 2,
+            "peso": 66.0,
+            "altura": 1.75
+        }
+    ],
+    "treinos": [
+        {
+            "id": 1,
+            "usuario_id": 2,
+            "tipo": "forca",
+            "duracao": 60,
+            "calorias": 600
+        }
+    ]
+}
